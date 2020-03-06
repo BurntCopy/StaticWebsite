@@ -26,5 +26,5 @@ The following AWS services are used to create the CI/CD pipeline
 - Ensure you delete the CloudFormation Stack and the S3 bucket to avoid incurring any additional charges. 
 
 ### Ideas for improvment
-- Further automate the process by having the S3 bucket created directly into the CodePipeline
+- Further automate the process by provisioning the S3 bucket somewhere in the CodePipeline
 - Setup a configurable TTL. Deletion of the S3 bucket and the stack is automatically triggered when the TTL is up
