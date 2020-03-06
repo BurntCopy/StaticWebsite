@@ -27,4 +27,4 @@ The following AWS services are used to create the CI/CD pipeline
 
 ### Ideas for improvment
 - Further automate the process by provisioning the S3 bucket somewhere in the CodePipeline
-- Setup a configurable TTL. Deletion of the S3 bucket and the stack is automatically triggered when the TTL is up
+- Setup a configurable TTL. Deletion of the S3 bucket and the stack would be automatic when the TTL is up
