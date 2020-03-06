@@ -20,5 +20,7 @@ The following AWS services are used to create the CI/CD pipeline
    - Testing Phase: Codebuild was used to test whether the html contained the words "Automation for the People!". This was done by using ```cat index.html | grep "Automation for the People!"``` (Note: The generated buildspec.yml is available in the master branch of this repository)
    - Deploy Phase: The index.html file in this github repository was deployed to the S3 bucket initially created by the CloudFormation stack
   
+![image](https://user-images.githubusercontent.com/57568144/76044909-b00a8a00-5f29-11ea-92d6-04e09b1eee89.png)
+   
 ### Cleanup
 - Ensure you delete the CloudFormation Stack and the S3 bucket to avoid incurring any additional charges. 
