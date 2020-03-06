@@ -1,3 +1,4 @@
+#This template was obatined through the CloudFormation user guide
 {
     "AWSTemplateFormatVersion": "2010-09-09",
     "Resources": {
