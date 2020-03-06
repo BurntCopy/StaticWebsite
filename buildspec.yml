@@ -1,0 +1,6 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+       -  cat index.html | grep "Automation for the People!"
