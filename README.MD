@@ -1,5 +1,3 @@
-![1_TNJ7Rpr5G1OJHtKH-IBEFw](https://user-images.githubusercontent.com/57568144/76376378-892fc780-631e-11ea-967b-1e74c8c5923f.png)
-
 # Elephant Mini Project
 
 This project is a demonstration of CI/CD concepts by creating a static web hosting S3 bucket with CloudFormation and using CodeBuild to have a form of automated testing. This was all orchestrated by CodePipeline
