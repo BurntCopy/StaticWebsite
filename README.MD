@@ -1,4 +1,4 @@
-# Elephant Mini Project
+# Static Website Project
 
 This project is a demonstration of CI/CD concepts by creating a static web hosting S3 bucket with CloudFormation and using CodeBuild to have a form of automated testing. This was all orchestrated by CodePipeline
 
